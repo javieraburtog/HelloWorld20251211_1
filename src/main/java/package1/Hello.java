@@ -23,7 +23,6 @@ public class Hello {
         System.out.println("Welcome to Maven Project");
         System.out.println("This is a simple Java program.");
         
-        System.out.println("Additional line for demonstration, GITHUB.");
         
     }
 
